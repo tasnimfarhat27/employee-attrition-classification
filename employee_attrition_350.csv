@@ -1,0 +1,351 @@
+Age,Department,JobRole,MonthlyIncome,DistanceFromHome,YearsAtCompany,JobSatisfaction,WorkLifeBalance,OverTime,NumCompaniesWorked,Attrition
+56,Sales,Executive,49915,3,7,2,4,No,8,Yes
+46,R&D,Technician,47219,10,14,4,3,No,0,No
+32,HR,Research Scientist,90879,2,13,3,2,Yes,1,No
+25,HR,Research Scientist,74644,27,17,3,1,No,4,No
+38,HR,Manager,70279,23,19,1,2,No,3,No
+56,Sales,Manager,63028,13,6,1,4,No,9,No
+36,Sales,Executive,10126,13,2,3,2,Yes,8,Yes
+40,R&D,Manager,62329,18,11,3,2,Yes,6,Yes
+28,R&D,Technician,37632,3,2,3,1,No,5,Yes
+28,R&D,Research Scientist,75310,27,19,4,4,No,6,No
+41,Sales,Executive,65176,7,13,3,3,Yes,0,No
+53,Sales,Manager,96066,14,14,1,3,Yes,0,No
+57,R&D,Technician,54327,20,13,4,1,No,7,No
+41,R&D,Technician,78904,29,6,3,2,No,1,No
+20,Sales,Manager,13797,17,16,1,1,Yes,9,Yes
+39,R&D,Research Scientist,57882,29,11,4,1,Yes,8,No
+19,HR,Manager,23718,21,19,3,1,Yes,6,No
+41,Sales,Executive,44560,12,3,3,2,No,5,No
+47,R&D,Manager,86589,25,8,3,4,Yes,0,Yes
+55,Sales,Technician,32116,16,5,4,1,No,0,No
+19,HR,Manager,46244,24,15,1,2,Yes,1,Yes
+38,Sales,Research Scientist,11645,12,1,1,4,Yes,5,Yes
+50,Sales,Sales Rep,57523,15,7,2,1,Yes,5,Yes
+29,Sales,Manager,29256,25,10,3,3,Yes,1,No
+39,Sales,Research Scientist,63173,10,12,2,4,No,0,No
+42,HR,Research Scientist,47430,25,16,2,1,No,9,Yes
+44,Sales,Technician,49282,7,7,1,4,Yes,4,Yes
+59,Sales,Research Scientist,73374,20,17,4,4,No,4,No
+45,R&D,Research Scientist,78244,5,17,4,4,Yes,1,Yes
+33,Sales,Research Scientist,21694,1,13,1,4,Yes,5,Yes
+32,R&D,Research Scientist,66264,17,14,4,4,Yes,8,No
+20,HR,Executive,85060,3,5,2,4,Yes,1,No
+54,HR,Executive,67545,13,10,3,1,No,9,Yes
+24,HR,Technician,49224,14,12,1,3,Yes,1,Yes
+38,HR,Manager,23224,24,0,3,2,Yes,2,Yes
+26,R&D,Research Scientist,50738,18,5,4,4,No,6,No
+56,Sales,Manager,35150,4,8,3,2,Yes,5,No
+35,HR,Manager,73731,18,7,4,1,Yes,7,No
+21,Sales,Technician,59688,5,10,4,4,Yes,7,Yes
+42,R&D,Research Scientist,83509,25,18,2,3,No,5,No
+31,R&D,Research Scientist,18577,16,8,4,2,Yes,9,Yes
+26,R&D,Sales Rep,18070,1,16,2,4,No,2,No
+43,HR,Manager,18666,21,11,2,1,Yes,2,No
+19,Sales,Manager,67761,14,13,2,3,Yes,0,No
+37,Sales,Executive,46368,15,14,1,2,No,6,No
+45,Sales,Sales Rep,16783,9,15,1,2,Yes,4,Yes
+24,R&D,Executive,51914,15,19,4,4,Yes,3,Yes
+25,HR,Executive,80507,17,0,2,3,No,9,No
+52,R&D,Executive,89026,25,9,1,3,No,3,Yes
+31,R&D,Technician,77526,24,7,2,3,No,3,No
+34,Sales,Technician,80835,4,17,3,3,No,5,Yes
+53,R&D,Executive,55765,12,0,3,1,No,7,Yes
+57,Sales,Sales Rep,29956,27,1,3,3,Yes,7,Yes
+21,HR,Manager,97895,26,0,4,2,No,4,Yes
+19,Sales,Sales Rep,56240,5,0,2,2,Yes,5,Yes
+23,HR,Research Scientist,47148,29,8,3,1,Yes,3,Yes
+59,Sales,Technician,14757,5,12,1,2,Yes,8,Yes
+21,R&D,Manager,29097,11,0,3,2,No,7,Yes
+46,R&D,Manager,20395,28,12,3,3,No,9,No
+35,HR,Research Scientist,26241,6,19,3,2,Yes,9,Yes
+43,HR,Research Scientist,37696,7,6,4,1,No,0,No
+51,HR,Executive,80480,24,1,1,3,No,1,No
+27,Sales,Technician,56163,14,5,2,4,No,8,No
+53,Sales,Technician,29816,24,6,1,3,No,7,No
+31,HR,Sales Rep,59840,11,13,2,1,Yes,2,Yes
+48,R&D,Executive,62853,13,17,4,3,Yes,7,No
+32,Sales,Executive,34917,2,14,4,3,No,0,No
+25,Sales,Executive,31566,25,1,4,1,Yes,9,Yes
+31,Sales,Executive,85452,7,9,4,3,No,3,No
+40,HR,Technician,72823,20,11,2,1,No,2,Yes
+57,HR,Technician,30806,4,16,3,1,Yes,5,No
+38,HR,Executive,85520,27,7,2,4,Yes,6,No
+33,HR,Sales Rep,11759,8,10,1,2,Yes,3,No
+35,HR,Manager,51949,20,2,4,2,No,6,No
+41,R&D,Manager,12482,29,5,4,3,Yes,8,No
+43,R&D,Sales Rep,34442,22,8,1,3,No,1,Yes
+42,HR,Executive,43719,21,5,2,4,Yes,2,Yes
+58,Sales,Technician,68066,19,8,3,4,Yes,4,Yes
+46,HR,Manager,12079,13,6,3,4,No,2,No
+32,R&D,Research Scientist,12717,14,8,1,1,No,7,No
+18,R&D,Research Scientist,69676,10,17,3,4,No,9,No
+42,Sales,Sales Rep,37952,11,11,2,4,No,7,Yes
+24,R&D,Executive,96444,2,7,2,3,No,7,Yes
+26,HR,Manager,52460,25,7,1,4,No,8,No
+41,Sales,Executive,82847,26,17,2,1,No,3,Yes
+18,HR,Manager,99106,9,19,4,1,No,4,No
+25,HR,Sales Rep,28449,17,14,1,3,Yes,4,Yes
+41,Sales,Sales Rep,43536,26,6,2,4,No,7,Yes
+28,HR,Research Scientist,74077,3,10,1,4,No,6,Yes
+34,R&D,Executive,48258,24,19,3,1,Yes,8,No
+25,HR,Research Scientist,58302,6,15,2,4,No,7,No
+52,Sales,Executive,38865,5,3,4,4,Yes,1,Yes
+52,Sales,Research Scientist,16645,5,5,2,4,Yes,9,Yes
+50,Sales,Technician,48000,22,2,1,2,No,3,Yes
+22,HR,Technician,36737,15,8,1,3,Yes,5,Yes
+59,Sales,Technician,21485,23,9,2,2,No,1,No
+56,Sales,Technician,48565,17,13,4,3,Yes,6,No
+58,HR,Manager,35522,9,10,4,1,Yes,2,Yes
+45,R&D,Technician,75155,3,17,4,4,Yes,2,Yes
+24,HR,Sales Rep,65168,20,11,1,3,No,1,No
+26,Sales,Sales Rep,62487,26,11,2,2,No,7,Yes
+25,Sales,Manager,22342,17,12,3,4,Yes,5,No
+29,HR,Technician,50806,29,12,1,1,Yes,0,Yes
+51,R&D,Technician,58770,27,18,4,3,No,0,No
+50,Sales,Technician,88623,10,18,2,3,No,6,Yes
+40,Sales,Research Scientist,85629,3,13,4,3,Yes,7,No
+41,Sales,Executive,62603,18,3,3,4,Yes,4,No
+54,HR,Research Scientist,91974,18,12,4,2,No,4,Yes
+52,Sales,Executive,36399,17,7,4,2,No,3,Yes
+57,R&D,Technician,95382,24,18,3,3,No,5,Yes
+39,Sales,Technician,91244,3,11,2,1,No,5,Yes
+44,Sales,Research Scientist,86534,3,17,1,1,No,2,Yes
+52,R&D,Research Scientist,65106,6,5,2,2,Yes,8,Yes
+18,Sales,Executive,40678,13,17,3,1,No,6,No
+52,HR,Sales Rep,86218,24,18,4,2,Yes,0,Yes
+54,HR,Executive,73230,29,4,2,3,No,6,Yes
+31,HR,Research Scientist,84055,15,8,1,2,Yes,4,No
+20,R&D,Research Scientist,66373,25,2,3,2,No,4,Yes
+18,Sales,Manager,41480,9,9,2,3,No,1,No
+22,HR,Research Scientist,95230,4,18,1,1,Yes,3,Yes
+43,R&D,Manager,78836,14,2,3,2,Yes,5,No
+31,Sales,Sales Rep,82258,5,14,1,2,No,9,No
+56,R&D,Executive,49986,2,0,3,3,No,6,No
+44,HR,Executive,34160,11,6,4,1,No,4,No
+26,HR,Manager,95595,9,11,2,2,No,8,Yes
+32,HR,Executive,89111,24,16,1,3,No,2,No
+32,R&D,Research Scientist,74929,3,19,3,2,Yes,0,Yes
+43,R&D,Technician,83506,27,4,1,4,Yes,3,Yes
+59,HR,Manager,44911,28,3,1,3,No,8,Yes
+30,R&D,Executive,97127,29,11,2,1,Yes,3,Yes
+49,HR,Manager,41821,9,19,4,1,Yes,1,Yes
+56,HR,Manager,85039,3,17,1,1,Yes,9,Yes
+49,Sales,Technician,70535,25,16,3,1,No,4,No
+21,R&D,Research Scientist,94458,2,18,3,2,Yes,2,No
+47,HR,Manager,22175,12,8,4,2,No,8,No
+54,HR,Executive,64771,10,3,3,1,Yes,3,Yes
+40,R&D,Sales Rep,96925,9,1,4,1,No,5,Yes
+56,Sales,Manager,76358,15,3,3,1,Yes,1,Yes
+32,Sales,Manager,27327,8,1,2,2,No,5,Yes
+46,HR,Technician,57057,25,14,1,1,No,2,Yes
+53,R&D,Research Scientist,16150,5,1,2,1,Yes,8,Yes
+30,Sales,Sales Rep,14425,11,3,1,4,No,1,Yes
+49,R&D,Executive,26032,27,5,1,4,No,8,No
+24,R&D,Sales Rep,12198,2,6,1,1,No,4,Yes
+39,HR,Executive,70500,24,9,2,3,No,7,Yes
+45,Sales,Research Scientist,63394,28,18,1,1,No,1,Yes
+19,HR,Executive,30079,15,18,2,4,No,5,Yes
+59,Sales,Technician,46220,6,11,4,3,No,2,No
+23,Sales,Technician,51874,8,2,3,3,No,9,No
+45,Sales,Technician,23859,27,12,3,1,Yes,4,Yes
+45,Sales,Technician,60460,5,17,1,4,Yes,7,Yes
+37,Sales,Sales Rep,41419,16,7,2,4,No,9,No
+47,R&D,Research Scientist,18705,26,14,3,3,No,0,No
+28,HR,Executive,52880,18,0,2,1,Yes,4,Yes
+45,R&D,Executive,33236,6,2,2,2,Yes,2,Yes
+42,Sales,Technician,97955,5,7,1,2,Yes,3,Yes
+56,HR,Technician,95514,28,3,3,4,No,1,No
+50,Sales,Manager,25358,16,15,1,2,Yes,8,Yes
+18,HR,Research Scientist,86918,13,9,1,4,No,2,Yes
+44,R&D,Sales Rep,24596,28,11,3,4,No,1,No
+30,HR,Executive,43572,5,13,3,4,Yes,9,No
+58,HR,Manager,88757,13,13,4,2,No,8,Yes
+20,HR,Manager,11279,17,1,4,4,No,6,No
+56,HR,Executive,73197,18,4,2,3,No,5,No
+23,HR,Sales Rep,72516,8,4,3,1,No,0,No
+25,Sales,Manager,17083,13,5,4,1,Yes,4,Yes
+44,HR,Manager,27771,29,12,2,4,Yes,2,No
+26,HR,Research Scientist,39975,19,8,2,1,No,0,Yes
+54,R&D,Sales Rep,55648,26,14,2,2,No,3,No
+50,HR,Manager,58285,3,13,4,2,Yes,1,Yes
+59,R&D,Sales Rep,29063,24,6,3,1,No,1,No
+41,Sales,Executive,77642,8,19,1,2,Yes,2,Yes
+32,HR,Technician,96143,2,1,2,1,No,7,No
+49,R&D,Manager,47599,8,6,4,1,No,7,No
+49,R&D,Research Scientist,61920,27,5,4,1,Yes,6,Yes
+41,Sales,Executive,38529,13,16,1,4,Yes,5,Yes
+58,HR,Sales Rep,45954,13,1,1,1,Yes,8,No
+29,HR,Executive,37856,1,2,4,4,Yes,3,Yes
+56,R&D,Manager,12573,6,4,3,1,No,0,No
+19,HR,Sales Rep,88344,24,4,1,1,Yes,7,Yes
+20,R&D,Technician,45367,19,0,4,1,No,6,Yes
+54,HR,Executive,70774,16,7,1,2,Yes,6,Yes
+34,R&D,Manager,33752,8,11,3,4,Yes,2,Yes
+19,HR,Research Scientist,65029,28,3,2,4,No,3,No
+19,Sales,Sales Rep,27685,1,12,1,1,Yes,9,Yes
+45,HR,Executive,61693,27,14,3,1,Yes,8,Yes
+40,HR,Executive,65961,27,10,4,2,Yes,5,Yes
+54,Sales,Technician,86908,16,9,1,2,Yes,4,Yes
+49,HR,Technician,84532,9,2,1,2,No,2,No
+50,Sales,Research Scientist,91994,13,13,4,4,No,8,No
+18,HR,Research Scientist,66133,11,15,2,4,Yes,4,Yes
+36,R&D,Manager,71268,13,9,4,4,Yes,4,No
+19,R&D,Manager,48243,25,9,1,1,Yes,3,Yes
+43,HR,Research Scientist,67384,21,11,4,4,No,3,No
+49,HR,Research Scientist,41653,10,8,3,3,No,0,No
+23,HR,Sales Rep,36657,4,0,4,3,No,6,Yes
+49,R&D,Technician,49952,27,4,1,2,No,8,Yes
+21,HR,Manager,32180,6,19,4,4,Yes,2,No
+28,R&D,Technician,88411,28,7,2,3,Yes,1,Yes
+34,Sales,Technician,11622,7,10,4,2,Yes,2,No
+55,R&D,Research Scientist,58756,5,11,2,4,No,0,No
+41,R&D,Sales Rep,50809,11,0,3,1,Yes,5,Yes
+22,Sales,Executive,26725,13,19,2,3,No,6,No
+51,R&D,Sales Rep,71396,26,10,4,1,No,1,No
+23,HR,Sales Rep,61226,25,4,1,4,Yes,7,Yes
+39,HR,Technician,91182,19,14,2,3,Yes,5,No
+28,R&D,Sales Rep,92565,23,4,3,4,Yes,3,No
+33,HR,Manager,39402,10,11,2,1,No,4,Yes
+50,R&D,Technician,14263,10,4,2,3,No,7,No
+26,HR,Manager,56828,11,16,2,1,Yes,2,Yes
+23,HR,Executive,57924,21,16,3,4,Yes,2,No
+33,R&D,Technician,84182,7,11,4,4,No,3,No
+46,HR,Executive,69052,18,14,2,1,Yes,0,Yes
+20,R&D,Technician,21664,4,14,2,3,No,8,Yes
+37,HR,Research Scientist,45737,2,5,1,1,No,7,Yes
+53,HR,Sales Rep,99563,14,11,3,4,Yes,7,No
+36,Sales,Research Scientist,39373,13,19,2,1,Yes,9,Yes
+43,Sales,Executive,46397,29,17,3,4,Yes,5,Yes
+20,R&D,Sales Rep,96145,12,13,2,1,Yes,6,No
+36,Sales,Technician,48709,7,1,4,3,No,5,Yes
+37,R&D,Sales Rep,71120,2,8,4,3,No,8,No
+49,Sales,Manager,29250,13,4,2,1,No,2,No
+24,HR,Sales Rep,31172,14,19,4,1,Yes,2,No
+58,R&D,Manager,21555,27,0,2,3,No,2,Yes
+50,R&D,Sales Rep,97410,17,2,4,4,Yes,9,Yes
+57,HR,Manager,88617,9,5,1,3,Yes,2,No
+56,R&D,Executive,63276,17,4,1,4,Yes,8,No
+35,R&D,Research Scientist,67492,8,4,1,1,Yes,3,Yes
+57,Sales,Technician,63002,2,0,3,1,Yes,6,Yes
+18,R&D,Sales Rep,99599,28,16,3,4,Yes,8,No
+28,HR,Research Scientist,82355,24,18,1,1,No,6,No
+45,Sales,Technician,34762,13,13,3,4,Yes,8,No
+42,Sales,Technician,21046,3,11,4,2,No,2,No
+40,HR,Manager,38769,16,9,2,3,No,3,No
+48,HR,Executive,63302,6,19,2,2,Yes,7,Yes
+47,Sales,Executive,33150,19,17,2,4,Yes,5,Yes
+59,R&D,Research Scientist,78247,7,10,1,3,Yes,4,Yes
+52,Sales,Executive,14853,10,1,3,4,No,3,Yes
+24,HR,Sales Rep,99399,9,17,4,3,Yes,7,No
+33,Sales,Executive,31792,2,6,4,3,No,0,No
+43,HR,Research Scientist,69129,28,14,1,3,Yes,8,Yes
+19,Sales,Executive,84478,28,10,4,3,Yes,0,Yes
+18,R&D,Sales Rep,77298,15,17,4,4,No,7,Yes
+29,Sales,Manager,41987,5,11,4,3,No,3,No
+22,Sales,Research Scientist,25850,29,5,4,3,Yes,8,No
+54,HR,Manager,22112,22,19,3,2,No,4,Yes
+49,HR,Manager,34058,4,12,4,1,No,2,No
+26,HR,Manager,55420,20,19,2,1,No,8,Yes
+58,Sales,Technician,48890,4,15,1,2,No,8,Yes
+52,R&D,Technician,76017,18,17,3,2,No,3,Yes
+36,HR,Manager,57304,4,9,4,4,Yes,3,No
+33,HR,Research Scientist,42921,27,7,3,4,Yes,7,No
+20,Sales,Sales Rep,11524,17,17,4,4,No,1,No
+37,HR,Sales Rep,25048,12,0,2,2,Yes,8,Yes
+41,R&D,Executive,45111,22,7,1,2,Yes,5,Yes
+50,R&D,Research Scientist,47904,17,5,4,3,No,8,No
+41,HR,Technician,64912,10,4,4,4,Yes,7,Yes
+28,HR,Manager,44008,22,14,4,4,No,6,No
+25,Sales,Executive,10060,1,14,4,4,No,0,No
+53,R&D,Sales Rep,84666,22,1,1,1,Yes,2,Yes
+55,R&D,Technician,93559,26,0,1,3,No,1,No
+57,HR,Technician,65337,24,10,2,4,No,4,No
+37,Sales,Manager,23350,27,9,1,4,No,4,No
+52,R&D,Sales Rep,34354,18,17,4,4,No,4,No
+42,R&D,Research Scientist,55186,18,17,2,1,No,3,Yes
+52,Sales,Technician,38145,14,16,2,1,Yes,4,Yes
+42,Sales,Manager,44020,15,7,2,2,Yes,2,Yes
+46,R&D,Research Scientist,96123,29,14,4,3,No,0,No
+35,R&D,Sales Rep,85186,12,7,3,2,No,4,No
+35,Sales,Technician,95469,4,16,4,3,Yes,8,Yes
+19,R&D,Research Scientist,30581,27,11,1,1,No,8,No
+52,HR,Research Scientist,98929,3,7,1,4,Yes,3,Yes
+33,HR,Research Scientist,33051,20,13,4,2,No,2,No
+58,Sales,Technician,61474,29,3,4,4,No,0,No
+53,Sales,Technician,79626,12,0,2,2,No,1,Yes
+50,Sales,Executive,16960,7,0,4,1,No,7,No
+21,HR,Sales Rep,45772,29,18,2,1,No,0,No
+50,R&D,Manager,31520,11,15,1,1,No,7,Yes
+31,HR,Research Scientist,59481,1,13,2,2,No,6,No
+38,R&D,Executive,46408,6,15,4,3,Yes,7,Yes
+37,HR,Manager,67134,15,4,1,2,Yes,5,Yes
+25,R&D,Executive,30491,15,8,3,3,Yes,8,No
+24,HR,Technician,11341,19,1,2,2,No,2,No
+20,Sales,Research Scientist,54623,11,17,1,2,No,9,Yes
+34,HR,Manager,10338,26,5,2,1,No,3,Yes
+50,R&D,Manager,81431,23,8,1,4,No,5,Yes
+29,HR,Manager,22254,26,0,1,4,No,7,No
+39,HR,Manager,61860,2,8,2,3,No,4,Yes
+39,HR,Manager,21344,14,15,3,4,No,2,No
+47,Sales,Executive,11750,2,12,1,2,Yes,5,Yes
+55,HR,Research Scientist,64756,29,8,1,2,No,3,Yes
+55,Sales,Technician,77957,4,12,1,1,Yes,8,Yes
+25,Sales,Technician,68053,17,8,3,1,Yes,2,Yes
+44,HR,Technician,80855,3,10,3,4,No,3,No
+44,HR,Technician,25896,13,3,4,3,No,6,No
+51,HR,Executive,65761,9,1,2,4,Yes,6,Yes
+38,R&D,Sales Rep,72552,7,5,3,4,Yes,3,No
+47,HR,Research Scientist,87454,15,13,2,4,No,5,Yes
+50,Sales,Manager,37935,23,3,4,4,No,2,No
+45,HR,Sales Rep,47641,29,5,2,2,Yes,5,Yes
+50,R&D,Technician,39711,29,18,3,3,No,1,Yes
+22,HR,Sales Rep,80342,11,5,2,2,No,7,No
+36,R&D,Research Scientist,22182,20,1,3,3,No,1,Yes
+21,R&D,Manager,97833,2,17,2,1,Yes,6,Yes
+52,HR,Manager,66276,15,12,3,4,Yes,8,No
+34,Sales,Research Scientist,29541,14,8,3,2,Yes,0,Yes
+45,R&D,Research Scientist,92310,20,18,2,3,No,7,Yes
+47,HR,Technician,54813,22,12,4,1,No,6,Yes
+46,HR,Manager,47198,11,10,1,1,Yes,5,Yes
+23,Sales,Sales Rep,18820,27,0,4,4,Yes,5,No
+52,R&D,Executive,34070,3,6,2,3,Yes,5,Yes
+58,R&D,Executive,79768,17,14,4,2,No,8,No
+54,HR,Research Scientist,21122,12,0,3,4,Yes,1,No
+41,HR,Technician,90559,24,11,1,2,Yes,0,Yes
+46,Sales,Executive,83543,28,6,2,1,No,5,No
+48,Sales,Manager,93441,29,14,2,2,No,9,Yes
+52,R&D,Research Scientist,51786,21,18,2,2,No,7,No
+50,R&D,Sales Rep,16737,15,0,1,4,Yes,2,Yes
+38,HR,Research Scientist,46062,16,16,3,2,No,9,No
+49,R&D,Sales Rep,64237,5,16,2,4,No,0,No
+40,Sales,Research Scientist,61571,27,2,4,1,Yes,8,Yes
+50,Sales,Research Scientist,35510,20,11,2,4,No,0,No
+20,HR,Research Scientist,29426,6,5,2,4,Yes,2,No
+35,Sales,Sales Rep,47265,19,10,2,3,Yes,7,Yes
+42,Sales,Sales Rep,27850,25,2,2,2,No,2,Yes
+59,Sales,Research Scientist,76150,5,7,3,1,No,3,No
+48,Sales,Executive,97312,3,13,4,4,No,7,No
+20,HR,Technician,99613,27,13,3,1,No,0,No
+57,HR,Technician,84910,1,9,4,3,No,5,No
+41,R&D,Technician,62375,26,1,2,2,No,0,No
+49,Sales,Sales Rep,45435,28,13,1,4,Yes,0,No
+39,R&D,Sales Rep,67132,6,8,3,2,Yes,7,Yes
+40,HR,Executive,88945,15,2,1,3,No,3,Yes
+19,HR,Technician,92050,2,7,3,3,Yes,0,No
+44,HR,Technician,12983,29,15,2,1,No,9,No
+59,HR,Research Scientist,30662,3,1,3,4,Yes,6,Yes
+19,HR,Sales Rep,33510,17,5,2,1,Yes,4,Yes
+43,HR,Technician,88187,25,11,3,3,Yes,4,No
+34,HR,Executive,50998,24,4,2,2,No,0,Yes
+57,Sales,Executive,66846,12,1,2,1,Yes,9,Yes
+50,R&D,Technician,16640,18,15,4,1,No,5,No
+26,HR,Sales Rep,54547,15,4,2,2,Yes,8,Yes
+56,Sales,Executive,64620,12,14,4,1,Yes,8,Yes
+46,Sales,Research Scientist,25317,16,11,2,2,Yes,7,Yes
+59,R&D,Executive,17564,27,3,1,4,Yes,4,Yes
+43,HR,Manager,37345,8,14,2,2,Yes,0,Yes
+52,R&D,Manager,89273,28,10,1,4,No,8,No
+42,HR,Sales Rep,84859,14,15,1,2,No,0,No
+41,Sales,Technician,90765,25,5,2,3,Yes,7,No
+30,Sales,Sales Rep,84038,17,13,1,3,Yes,4,Yes
