@@ -26,10 +26,10 @@ Employee turnover can be costly for organizations. This project uses machine lea
 ├── employee_attrition_350.csv # Dataset used for training
 ├── employee_attrition_.ipynb  # Data exploration and training notebook
 └── requirements.txt           # Python dependencies
----
+```
 ## 🚀 Local Installation & Setup
 
-1. **Clone the repository:**
+1. **Clone the repository:** 
    ```bash
    git clone https://github.com/swapnasaina274/employee-attrition-classification.git
    cd employee-attrition-classification
@@ -42,4 +42,3 @@ Employee turnover can be costly for organizations. This project uses machine lea
    ```bash
    streamlit run app.py
    ```
-
