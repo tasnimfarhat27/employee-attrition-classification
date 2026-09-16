@@ -27,6 +27,10 @@ Employee turnover can be costly for organizations. This project uses machine lea
 ├── employee_attrition_.ipynb  # Data exploration and training notebook
 └── requirements.txt           # Python dependencies
 ```
+
+## Future Enhancements
+- Add user authentication for multi-user support.
+- Export prediction reports as CSV or PDF.
 ## 🚀 Local Installation & Setup
 
 1. **Clone the repository:** 
